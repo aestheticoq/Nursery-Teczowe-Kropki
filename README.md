@@ -16,7 +16,7 @@ Welcome to the Żłobek Tęczowe Kropki - Homepage repository!
 - Contributions to improve the webpage are welcome! If you have any suggestions or want to report issues, feel free and contact us.
 email: trybalaoskardev@gmail.com
 
-## All rights reserved.
+#### All rights reserved. Oskar Trybała
 ---
 
 For more information about Żłobek Tęczowe Kropki, please visit [our website](http://www.teczowekropki.pl).
