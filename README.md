@@ -1,6 +1,6 @@
-# Żłobek Tęczowe Kropki - Homepage
+# Żłobek Tęczowe Kropki
 
-Welcome to the Żłobek Tęczowe Kropki - Homepage repository!
+Welcome to the Żłobek Tęczowe Kropki repository!
 
 ## Description
 Żłobek Tęczowe Kropki is a non-public nursery dedicated to providing a safe and joyful environment for the development of young children. The webpage serves as the main platform for disseminating information about the nursery to parents and guardians.
